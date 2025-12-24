@@ -33,7 +33,7 @@ If a suitable match is found, the answer is displayed and can also be spoken usi
 
 - Python  
 - Flask  
-- HTML, CSS, JavaScript  
+- HTML, CSS
 - Speech Recognition  
 - Text-to-Speech  
 
