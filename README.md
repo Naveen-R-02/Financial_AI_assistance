@@ -46,5 +46,4 @@ Gram-Sahayak-Financial-AI/
 ├── app.py
 ├── requirements.txt
 ├── templates/
-├── static/
-└── data/
+└── static/
